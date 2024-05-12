@@ -55,6 +55,7 @@ const (
 	XForwardedHost      = "X-Forwarded-Host"
 	XForwardedProto     = "X-Forwarded-Proto"
 	XRealIP             = "X-Real-IP"
+	XRequestID          = "X-Request-Id"
 	XRequestedWith      = "X-Requested-With"
 	XFrameOptions       = "X-Frame-Options"
 	XContentTypeOptions = "X-Content-Type-Options"
